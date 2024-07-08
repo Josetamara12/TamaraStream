@@ -32,8 +32,11 @@ body {
 }
 
 .logo__item {
-    background-image: url(../img/cabecera/Logo.png);
+    background-image: url(../img/cabecera/Logo.PNG);
     background-repeat: no-repeat;
+    background-size: center;
+    width: 250px;
+    height: 130px;
     padding: 15px 65px;
     cursor: pointer;
 }
