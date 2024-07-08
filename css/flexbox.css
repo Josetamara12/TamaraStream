@@ -8,7 +8,7 @@
 }
 
 .cabecera__buscar__item{
-    display: none;
+    display: block;
 }
 
 /* Menu */
