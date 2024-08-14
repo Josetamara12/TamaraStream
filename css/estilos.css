@@ -32,7 +32,7 @@ body {
 }
 
 .logo__item {
-    background-image: url(../img/cabecera/Logo.PNG);
+    background-image: url('/TamaraStream/img/cabecera/Logo.PNG');
     background-repeat: no-repeat;
     background-size: contain;
     width: 250px;
@@ -40,6 +40,7 @@ body {
     padding: 15px 65px;
     cursor: pointer;
 }
+
 
 .buscar__input {
     width: 260px;
